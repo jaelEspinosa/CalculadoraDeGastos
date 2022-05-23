@@ -1,4 +1,6 @@
 # GastoSemanal
 Gastos de la semana
-npm i
-npm run dev
+<npm i>
+
+
+<npm run dev>
